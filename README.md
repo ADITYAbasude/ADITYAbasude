@@ -52,7 +52,9 @@
   <img src="https://img.shields.io/badge/Gmail-adityabasude123%40gmail.com-red&icon=gmail"/>
 </div>
 
+</br></br>
 
+- My github stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ADITYAbasude&show_icons=true&theme=synthwave" />
