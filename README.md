@@ -47,9 +47,10 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </div>
 
-### 🤝 conect with me
+### 🤝 connect with me
 <div align="center">
   <img src="https://img.shields.io/badge/Gmail-adityabasude123%40gmail.com-red&icon=gmail"/>
+<!---  <img src="https://img.shields.io/badge/Gmail-adityabasude123%40gmail.com-red&icon=instagram"/> --->
 </div>
 
 </br></br>
