@@ -2,6 +2,8 @@
 </br>
   
  ### About me
+  
+ <img src="https://komarev.com/ghpvc/?username=your-github-ADITYAbasude&color=dc143c" /> 
  
   ***Computer science student at Pravin Patil diploma college.***
 
